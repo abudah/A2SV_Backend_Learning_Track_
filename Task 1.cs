@@ -17,15 +17,13 @@ class Program
         for(int i = 0; i < numSubject; i++ )
         {
             bool validInput = false;
-
             while(!validInput)
             {
                 Console.Write($"Name of Subject {i + 1} : ");
                 string subName = Console.ReadLine();
                 Console.Write($"Grade of Subject {i + 1} : ");
                 Double subGrade = Convert.ToDouble(Console.ReadLine());
-
-
+                
                 if((subGrade >= 0) && (subGrade <= 100))
                     {
                         try
@@ -42,11 +40,9 @@ class Program
                     Console.WriteLine("Please Grade values are within a range");
                 }
             }
-            
-            
-            
-
+        
         }
+        
             Console.WriteLine("\n Here is Your Calculated Grade ");
             Console.WriteLine($" Name : {studName}");
             Console.WriteLine("\n subjects with their grades ");
@@ -58,12 +54,9 @@ class Program
 
             Console.WriteLine();
             Console.WriteLine($"Your Calculated Average Grade is {calculateAverageGrade(record)}");
-            
-
-        
-
-
     }
+
+    
     static double calculateAverageGrade(Dictionary<string, double> grades)
         {
             double totalGrade = 0.0;
