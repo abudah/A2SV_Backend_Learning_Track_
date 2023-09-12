@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\bin\Debug\net7.0\PalindromeCheck.exe
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\bin\Debug\net7.0\PalindromeCheck.deps.json
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\bin\Debug\net7.0\PalindromeCheck.runtimeconfig.json
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\bin\Debug\net7.0\PalindromeCheck.dll
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\bin\Debug\net7.0\PalindromeCheck.pdb
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.dll
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\refint\PalindromeCheck.dll
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.pdb
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\PalindromeCheck.genruntimeconfig.cache
+C:\Users\PC\Documents\Cloned Repositories\A2SV_Backend_Learning_Track_\PalindromeCheck\obj\Debug\net7.0\ref\PalindromeCheck.dll
