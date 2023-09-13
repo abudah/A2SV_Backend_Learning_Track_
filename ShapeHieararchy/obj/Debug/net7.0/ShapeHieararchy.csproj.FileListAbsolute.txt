@@ -1,0 +1,14 @@
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\bin\Debug\net7.0\ShapeHieararchy.exe
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\bin\Debug\net7.0\ShapeHieararchy.deps.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\bin\Debug\net7.0\ShapeHieararchy.runtimeconfig.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\bin\Debug\net7.0\ShapeHieararchy.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\bin\Debug\net7.0\ShapeHieararchy.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.AssemblyInfoInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.AssemblyInfo.cs
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.csproj.CoreCompileInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\refint\ShapeHieararchy.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ShapeHieararchy.genruntimeconfig.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\ShapeHieararchy\obj\Debug\net7.0\ref\ShapeHieararchy.dll
