@@ -1,0 +1,14 @@
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.AssemblyInfoInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.AssemblyInfo.cs
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\bin\Debug\net7.0\LibraryCatalog.exe
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\bin\Debug\net7.0\LibraryCatalog.deps.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\bin\Debug\net7.0\LibraryCatalog.runtimeconfig.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\bin\Debug\net7.0\LibraryCatalog.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\bin\Debug\net7.0\LibraryCatalog.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\refint\LibraryCatalog.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\LibraryCatalog.genruntimeconfig.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\LibraryCatalog\obj\Debug\net7.0\ref\LibraryCatalog.dll
