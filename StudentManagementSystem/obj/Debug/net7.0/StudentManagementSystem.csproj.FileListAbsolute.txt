@@ -1,0 +1,14 @@
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\bin\Debug\net7.0\StudentManagementSystem.exe
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\bin\Debug\net7.0\StudentManagementSystem.deps.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\bin\Debug\net7.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\bin\Debug\net7.0\StudentManagementSystem.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\bin\Debug\net7.0\StudentManagementSystem.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\refint\StudentManagementSystem.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\StudentManagementSystem\obj\Debug\net7.0\ref\StudentManagementSystem.dll
