@@ -1,12 +1,21 @@
+using System.Text.Json.Serialization;
 public class Student
 {
 	public string? Name { get; set; }
 	public int Age { get; set; }
-	public  int RollNumber { get; set; }
+	    
+	[JsonInclude]
+	[JsonPropertyName("RollNumber")]
+	public  readonly int RollNumber;
 	public int Grade { get; set; }
 
-	override public string ToString(){
-		return $"Name: {Name}, Age: {Age}, RollNumber: {RollNumber}, Grade: {Grade}";
+	public Student(int rollNumber){
+		RollNumber = rollNumber;
+	}
+	public void Print()
+	{
+		Console.WriteLine($"Name: {Name}, Age: {Age}, RollNumber: {RollNumber}, Grade: {Grade}");
+	
 	}
 	
 }

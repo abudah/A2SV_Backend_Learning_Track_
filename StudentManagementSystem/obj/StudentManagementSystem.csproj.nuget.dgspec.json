@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fekede alemayehu\\Documents\\others\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj": {}
+    "C:\\Users\\PC\\Documents\\Cloned Repositories\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fekede alemayehu\\Documents\\others\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj": {
+    "C:\\Users\\PC\\Documents\\Cloned Repositories\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fekede alemayehu\\Documents\\others\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Cloned Repositories\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj",
         "projectName": "StudentManagementSystem",
-        "projectPath": "C:\\Users\\fekede alemayehu\\Documents\\others\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\fekede alemayehu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fekede alemayehu\\Documents\\others\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Documents\\Cloned Repositories\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\StudentManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Cloned Repositories\\A2SV_Backend_Learning_Track_\\StudentManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fekede alemayehu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

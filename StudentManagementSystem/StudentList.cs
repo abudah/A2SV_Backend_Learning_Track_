@@ -1,7 +1,4 @@
-using System.Collections.Generic;
-using System.Linq;
-using System.IO;
-using System.Runtime.Serialization;
+
 using System.Text.Json;
 
 public class StudentList<T> : List<Student>
@@ -20,53 +17,76 @@ public class StudentList<T> : List<Student>
 		students.Add(student);
 	}
 
+
+	// Using LINQ Queries Implement search functionality using Name of the student and ID.
 	public void SearchByName(string name)
 	{
-		var st = students.Where(student => student is Student && ((Student)(object)student).Name == name).ToList();
+		var st = students.OfType<Student>().Where(student => student.Name == name);;
 
 		Console.WriteLine("Searching by Name...");
+
+		if(!st.Any())
+			Console.WriteLine("No Students found by this name");
+		else
+		
 		Console.WriteLine("Those are the search results");
-
-		foreach (T? student in st)
-		{
-			student?.ToString();
-		}
+			foreach (Student? student in st)
+			{
+				student.Print();
+			}
 	}
-
+		
 	public void SearchByRollNum(int rollNumber)
 	{
-		var st = students.Where(student => student is Student && ((Student)(object)student).RollNumber == rollNumber);
+		var st = students.OfType<Student>().Where(student => student.RollNumber == rollNumber);
 		Console.WriteLine("Searching by roll number...");
-		Console.WriteLine("Those are the search results ");
-
-		foreach (T? student in  st)
-		{
-			student?.ToString();
-		}
+		if(!st.Any())
+			Console.WriteLine("No Students found by this name");
+		else	
+			Console.WriteLine("Those are the search results");
+			foreach (Student? student in st)
+			{
+				student.Print();
+			}
 	}
 
+	// Display all students in our list.
 	public void DisplayAllStudent()
 	{
-		foreach (T? student in  students)
-		{
-			student?.ToString();
-		}
+		Console.WriteLine("Displaying All students Data...");
+
+		var st = students.OfType<Student>();
+		if(!st.Any())
+			Console.WriteLine("No Students found by this name");
+		else	
+			foreach (Student student in st)
+			{
+				student.Print();
+			}
 	}
 
+
+	// Serialize the student data to store it into JSON Format into a file.
 	public string  SerializeStudentToJSON()
 	{
 		// serializing....
+		string SerializeStudentToJSON = JsonSerializer.Serialize(students); 
+		File.WriteAllText("data.json", SerializeStudentToJSON);
 		return JsonSerializer.Serialize(students);
-		// string SerializeStudentToJSON = 
-		// File.WriteAllText("data.json", SerializeStudentToJSON);
+
 	}
 
-	public void DeserializeStudentFromJSON(string jsonString)
+	// Deserialize the JSON data into the objects.
+
+	public void DeserializeStudentFromJSON()
 	{
 		// Deserializing....	
-		// string serializedData = File.ReadAllText("data.json");
-		students? = JsonSerializer.Deserialize<List<T>>(jsonString);
-		Console.WriteLine(students?);
+		JsonSerializerOptions options = new JsonSerializerOptions
+		{
+			IncludeFields  = true,
+		};
+		string? serializedData = File.ReadAllText("data.json");
+		students = JsonSerializer.Deserialize<List<T>>(serializedData, options) ?? students;
 	}
 
 }
