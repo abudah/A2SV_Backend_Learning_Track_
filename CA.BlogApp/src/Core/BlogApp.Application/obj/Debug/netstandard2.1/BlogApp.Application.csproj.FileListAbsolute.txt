@@ -1,0 +1,13 @@
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\bin\Debug\netstandard2.1\BlogApp.Application.deps.json
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\bin\Debug\netstandard2.1\BlogApp.Application.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\bin\Debug\netstandard2.1\BlogApp.Application.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\bin\Debug\netstandard2.1\BlogApp.Domain.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\bin\Debug\netstandard2.1\BlogApp.Domain.pdb
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.AssemblyInfoInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.AssemblyInfo.cs
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.csproj.CopyComplete
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.dll
+C:\Users\fekede alemayehu\Documents\others\A2SV_Backend_Learning_Track_\CA.BlogApp\src\Core\BlogApp.Application\obj\Debug\netstandard2.1\BlogApp.Application.pdb
