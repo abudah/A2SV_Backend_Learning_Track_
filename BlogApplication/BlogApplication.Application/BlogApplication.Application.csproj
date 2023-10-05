@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Features\Posts\Handlers\Commands\CreatePostCommandHandler.cs~RF744707.TMP" />
+    <None Remove="Features\Posts\Handlers\Commands\CreatePostCommandHandler.cs~RFa3de22.TMP" />
+    <None Remove="Features\Posts\Handlers\Queries\GetPostDetailRequestHandler.cs~RFa36da5.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogApplication.Domain\BlogApplication.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
