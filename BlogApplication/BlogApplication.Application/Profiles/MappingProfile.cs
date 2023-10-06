@@ -13,7 +13,10 @@ namespace BlogApplication.Application.Profiles
         public MappingProfile()
         {
             CreateMap<Post, PostDto>().ReverseMap();
+            CreateMap<Post, UpdatePostDto>().ReverseMap();
+            CreateMap<Post, CreatePostDto>().ReverseMap();
             CreateMap<Comment, CommentDto>().ReverseMap();
+            CreateMap<Comment, CreateCommentDto>().ReverseMap();
 
 
         }

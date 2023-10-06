@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using BlogApplication.Application.Exceptions;
 using BlogApplication.Application.Features.Posts.Requests.Commands;
 using BlogApplication.Application.Persistence.Contracts;
 using MediatR;
@@ -22,8 +23,11 @@ namespace BlogApplication.Application.Features.Posts.Handlers.Commands
         }
         public async Task<Unit> Handle(DeletePostCommand request, CancellationToken cancellationToken)
         {
-            var post = await _postRepository.GetDetail(request.Id);
-            await _postRepository.Delete(post.Id);
+            var post = await _postRepository.GetDetail(request.PostDto.Id);
+            if (post == null)
+                throw new NotFoundException(nameof(post), request.PostDto.Id);
+
+            await _postRepository.Delete(post);
             
             return Unit.Value;
 

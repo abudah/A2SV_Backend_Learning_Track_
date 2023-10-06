@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using BlogApplication.Application.DTOs.Post.Validators;
+using BlogApplication.Application.Exceptions;
 using BlogApplication.Application.Features.Posts.Requests.Commands;
 using BlogApplication.Application.Persistence.Contracts;
 using MediatR;
@@ -22,8 +24,14 @@ namespace BlogApplication.Application.Features.Posts.Handlers.Commands
 
         public async Task<Unit> Handle(UpdatePostCommand request, CancellationToken cancellationToken)
         {
-            var post = await _postRepository.GetDetail(request.PostDto.Id);
-            _mapper.Map(request.PostDto, post);
+            var validator = new UpdatePostDtoValidator(_postRepository);
+            var validationResult = await validator.ValidateAsync(request.UpdatePostDto);
+
+            if (validationResult.IsValid == false)
+                throw new ValidationException(validationResult);
+
+            var post = await _postRepository.GetDetail(request.UpdatePostDto.Id);
+            _mapper.Map(request.UpdatePostDto, post);
             await _postRepository.Update(post);
             return Unit.Value;
         }

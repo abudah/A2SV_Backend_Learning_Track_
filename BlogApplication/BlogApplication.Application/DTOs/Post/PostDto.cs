@@ -6,7 +6,7 @@ using System.Text;
 
 namespace BlogApplication.Application.DTOs.Post
 {
-    public class PostDto : BaseDto
+    public class PostDto : BaseDto, IPostDto
     {
         public string Title { get; set; } = "";
         public string Content { get; set; } = "";

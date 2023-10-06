@@ -8,6 +8,6 @@ namespace BlogApplication.Application.Features.Posts.Requests.Commands
 {
     public class UpdatePostCommand : IRequest<Unit>
     {
-        public PostDto PostDto { get; set; }
+        public UpdatePostDto UpdatePostDto { get; set; }
     }
 }

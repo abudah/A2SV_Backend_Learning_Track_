@@ -10,8 +10,8 @@ namespace BlogApplication.Application.Persistence.Contracts
         Task<T> GetDetail(int id);
         Task<IReadOnlyList<T>> GetList();
         Task<T> Add(T entity);
-        Task<T> Update(T entity);
-        Task<T> Delete(int id);
+        Task Update(T entity);
+        Task Delete(T entity);
 
     }
 }
